@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 number = int(10)
 print("The secret word begins with a j.")
 while number > 0:

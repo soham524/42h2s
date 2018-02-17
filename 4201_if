@@ -1,2 +1,0 @@
-secretword = "jokes"
-print("Let's play a game. Guess a five letter word that starts with j.")
